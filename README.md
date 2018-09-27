@@ -1,3 +1,3 @@
-# Primer on Linear Regression
+# Introduction to Expected Shortfall
 
-Primer on linear regression with statsmodels and scikit-learn
+Quick introduction to Expected Shortfall
